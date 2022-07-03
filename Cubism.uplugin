@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Cubism",
+	"Description": "Cubism SDK",
+	"Category": "Other",
+	"CreatedBy": "Shikanime Deva",
+	"CreatedByURL": "https://github.com/shikanime",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Cubism",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
